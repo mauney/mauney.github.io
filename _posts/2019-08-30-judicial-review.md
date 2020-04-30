@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nina - Supreme Court Prognosticator
-image: /img/hello_world.jpeg
+image: /assets/img/hello_world.jpeg
 ---
 Dash app to explore judicial review of federal laws
 
