@@ -13,10 +13,11 @@ author: matthew mauney
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  # Resources:
+  Connect:
     - LinkedIn: "https://www.linkedin.com/in/matthew-mauney-0707644/"
     - GitHub: "https://github.com/mauney"
-    # - Twitter: "https://twitter.com/ProbablyMauney"
+    - Twitter: "https://twitter.com/ProbablyMauney"
   # Author's home: "https://mauney.com"
 
 # --- Logo --- #
