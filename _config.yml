@@ -7,7 +7,7 @@ title: Probably Mauney
 description: Data Scientist
 
 # Your name to show in the footer
-author: mauney
+author: matthew mauney
 
 # --- List of links in the navigation bar --- #
 
@@ -16,14 +16,14 @@ navbar-links:
   Resources:
     - LinkedIn: "https://www.linkedin.com/in/matthew-mauney-0707644/"
     - GitHub: "https://github.com/mauney"
-    - Twitter: "https://twitter.com/ProbablyMauney"
-  Author's home: "https://mauney.com"
+    # - Twitter: "https://twitter.com/ProbablyMauney"
+  # Author's home: "https://mauney.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/profilellama2.jpeg"
+avatar: "/assets/img/llama2.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -43,9 +43,10 @@ social-network-links:
   # facebook: deanattali
   github: mauney
   twitter: ProbablyMauney
+  linkedin: matthew-mauney
   # rss: true
 #  reddit: yourname
-linkedin: matthew-mauney-0707644
+# linkedin: matthew-mauney
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
